@@ -3,8 +3,8 @@
 First (and probably last) project in Python :)
 
 Version v1.0 differed in the fact that two buttons were added in versions v1.1 and v1.2:
-- Delete span and copy(first button)
-- Delete div and copy(second button)
+- Delete span and copy(second button)
+- Delete div and copy(third button)
 
 **Source code is located in the "src-code" folder**
 
