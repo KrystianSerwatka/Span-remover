@@ -56,6 +56,6 @@ The biggest problem for me was the transformation of the text into source code e
 
 Python is not my main language, but only a side language. I was interested in this language because of its simplicity and popularity. I spent one month on this language together - including learning and writing this program. I used the course with Udemy and read a book -> Automate the Boring Stuff with Python.
 
-I'm sorry about my English not very good. I'm trying to improve my level overnight, I used -> deepl.com to translate most of it.
+I'm sorry about my English not very good. I'm trying to improve my level overnight, I used -> [deepl.com](https://www.deepl.com/translator) to translate most of it.
 
 **Thank you for reading and taking your time :)**
