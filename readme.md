@@ -6,6 +6,8 @@ Version v1.0 differed in the fact that two buttons were added in versions v1.1 a
 - Delete span and copy(first button)
 - Delete div and copy(second button)
 
+**Source code is located in the "src-code" folder**
+
 ----------
 
 ## The origin of the program
